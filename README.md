@@ -37,6 +37,11 @@
   
   <img src="https://camo.githubusercontent.com/1a6d54350dbd2b42474f9a4f10793547151d53e46c900754b16fdac2faadc5e4/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f53776966742d4641373334333f7374796c653d666f722d7468652d6261646765266c6f676f3d7377696674266c6f676f436f6c6f723d7768697465266c6162656c436f6c6f723d313031303130" alt="Swift" data-canonical-src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&amp;logo=swift&amp;logoColor=white&amp;labelColor=101010" style="max-width: 100%;">
   
+  <img src="https://camo.githubusercontent.com/7aa6f188ecd366be0f995ae16ab8617467a320d315a5e659264acac3961bdb0b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f694f532d3939393939393f7374796c653d666f722d7468652d6261646765266c6f676f3d6170706c65266c6f676f436f6c6f723d7768697465266c6162656c436f6c6f723d313031303130" alt="Apple" data-canonical-src="https://img.shields.io/badge/iOS-999999?style=for-the-badge&amp;logo=apple&amp;logoColor=white&amp;labelColor=101010" style="max-width: 100%;">
+  
+    
+  <img src="https://sigdeletras.com/images/blog/202004_react_leaflet/react.png" alt="React" style="width: 70px; height:31px">
+  
   
   
 </div>
