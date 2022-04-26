@@ -45,4 +45,11 @@
   
   
 </div>
+   
+ <div>
+   <h2>Download my LoopBook App </h2>
+    <a href="https://play.google.com/store/apps/details?id=com.loopbook.loopbook&hl=es&gl=US">
+    <img src="https://play-lh.googleusercontent.com/YtU_BHLx-2dqq9as_0AnJa1271zHy37srGNEkh9EE7YAqhfmv70cJC-7kS4RVamXhpw=s180" alt="LoopBook" style="max-width: "100%;">
+    </a>
+ </div>
 
