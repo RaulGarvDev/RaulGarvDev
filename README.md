@@ -13,7 +13,7 @@
     <h3>Junior Programmer IOS/Android/Web </h3>
     <img src="https://raulgarvdev.com/wp-content/uploads/2022/01/cropped-cropped-cropped-cropped-logo3-e1642667309203.png">
     <p> 
-        After more than 10 years of experience in the logistics sector working for multinational companies, I had to make a change 
+        After years of experience in the logistics sector working for multinational companies, I had to make a change 
        in my professional life by orienting my career to the technological world, more specifically to the world of software development,
       studying the Higher Degree of multiplatform Application Development (DAM).
     </p>
