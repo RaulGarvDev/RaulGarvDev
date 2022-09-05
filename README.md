@@ -29,18 +29,7 @@
 <div id="3">
   <h2>Skills:</h2>
   
-  <img src="https://camo.githubusercontent.com/3994c275eec45639c70521c4c0d0c8b438a9059493020680ca806ade576f821d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f416e64726f69645f53747564696f2d3344444338343f7374796c653d666f722d7468652d6261646765266c6f676f3d616e64726f69642d73747564696f266c6f676f436f6c6f723d7768697465266c6162656c436f6c6f723d313031303130" alt="Android_Studio" data-canonical-src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&amp;logo=android-studio&amp;logoColor=white&amp;labelColor=101010" style="max-width: 100%;">
-  
-  <img src="https://camo.githubusercontent.com/e728584edb420ac8151ec765fc04936759e5d044b3628e072782f9867e1bb895/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6176612d3030373339363f7374796c653d666f722d7468652d6261646765266c6f676f3d6a617661266c6f676f436f6c6f723d7768697465266c6162656c436f6c6f723d313031303130" alt="Java" data-canonical-src="https://img.shields.io/badge/Java-007396?style=for-the-badge&amp;logo=java&amp;logoColor=white&amp;labelColor=101010" style="max-width: 100%;">
-  
-  <img src="https://camo.githubusercontent.com/7aa6f188ecd366be0f995ae16ab8617467a320d315a5e659264acac3961bdb0b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f694f532d3939393939393f7374796c653d666f722d7468652d6261646765266c6f676f3d6170706c65266c6f676f436f6c6f723d7768697465266c6162656c436f6c6f723d313031303130" alt="Apple" data-canonical-src="https://img.shields.io/badge/iOS-999999?style=for-the-badge&amp;logo=apple&amp;logoColor=white&amp;labelColor=101010" style="max-width: 100%;">
-  
-  <img src="https://camo.githubusercontent.com/1a6d54350dbd2b42474f9a4f10793547151d53e46c900754b16fdac2faadc5e4/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f53776966742d4641373334333f7374796c653d666f722d7468652d6261646765266c6f676f3d7377696674266c6f676f436f6c6f723d7768697465266c6162656c436f6c6f723d313031303130" alt="Swift" data-canonical-src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&amp;logo=swift&amp;logoColor=white&amp;labelColor=101010" style="max-width: 100%;">
-  
-  <img src="https://camo.githubusercontent.com/7aa6f188ecd366be0f995ae16ab8617467a320d315a5e659264acac3961bdb0b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f694f532d3939393939393f7374796c653d666f722d7468652d6261646765266c6f676f3d6170706c65266c6f676f436f6c6f723d7768697465266c6162656c436f6c6f723d313031303130" alt="Apple" data-canonical-src="https://img.shields.io/badge/iOS-999999?style=for-the-badge&amp;logo=apple&amp;logoColor=white&amp;labelColor=101010" style="max-width: 100%;">
-  
-    
-  <img src="https://sigdeletras.com/images/blog/202004_react_leaflet/react.png" alt="React" style="width: 70px; height:31px">
+
   
  <img src="https://camo.githubusercontent.com/1f3c8231fefbf7c67c90e4a3039ff988c80ed15f3d7863659e0ad1fa7ef10996/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d6a732c68746d6c2c6373732c626f6f7473747261702c72656163742c6e6578746a732c6e6f64656a732c657870726573732c6a6176612c737072696e672c706870" alt="My Skills" data-canonical-src="https://skillicons.dev/icons?i=js,html,css,bootstrap,react,nextjs,nodejs,express,java,spring,php" style="max-width: 100%;"> 
   
