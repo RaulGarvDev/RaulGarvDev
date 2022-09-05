@@ -34,6 +34,8 @@
    <h2>Tools:</h2>
   
    [![My Skills](https://skillicons.dev/icons?i=docker,firebase,git,gradle,maven,idea,linux,wordpress)](https://skillicons.dev)
+   
+ <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/1354ce240cb089863809fad2e9daf6a10817c3e4ec204f4df61e3941722a938d/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d4c7569733436303926636f756e745f707269766174653d747275652673686f775f69636f6e733d7472756526696e636c7564655f616c6c5f636f6d6d6974733d74727565"><img src="https://camo.githubusercontent.com/1354ce240cb089863809fad2e9daf6a10817c3e4ec204f4df61e3941722a938d/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d4c7569733436303926636f756e745f707269766174653d747275652673686f775f69636f6e733d7472756526696e636c7564655f616c6c5f636f6d6d6974733d74727565" alt="Github Stats" data-canonical-src="https://github-readme-stats.vercel.app/api?username=empo555&amp;count_private=true&amp;show_icons=true&amp;include_all_commits=true" style="max-width: 100%;"></a>
   
   
 </div>
