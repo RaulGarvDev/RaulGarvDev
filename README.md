@@ -29,11 +29,11 @@
 <div id="3">
   <h2>Skills:</h2>
   
-
-  
- <img src="https://camo.githubusercontent.com/1f3c8231fefbf7c67c90e4a3039ff988c80ed15f3d7863659e0ad1fa7ef10996/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d6a732c68746d6c2c6373732c626f6f7473747261702c72656163742c6e6578746a732c6e6f64656a732c657870726573732c6a6176612c737072696e672c706870" alt="My Skills" data-canonical-src="https://skillicons.dev/icons?i=angular,html,css,bootstrap,react,nodejs,java,spring,swift" style="max-width: 100%;"/> 
+   [![My Skills](https://skillicons.dev/icons?i=angular,html,css,bootstrap,react,java,spring,swift,androidstudio,cs)](https://skillicons.dev)
   
    <h2>Tools:</h2>
+  
+   [![My Skills](https://skillicons.dev/icons?i=docker,firebase,git,gradle,maven,idea,linux,wordpress)](https://skillicons.dev)
   
   
 </div>
