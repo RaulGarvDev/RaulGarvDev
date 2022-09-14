@@ -49,10 +49,12 @@
 
 <div>
    <h2>See my full-stack app </h2>
-    <a href="https://the-librarian-front-develop.vercel.app/">
+  
+    <a href="https://the-librarian-front-develop.vercel.app/"> 
  
     <img src="https://the-librarian-front-develop.vercel.app/assets/logo.svg">
-    </a>
+     
+  </a>
 
  </div>
    
