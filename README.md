@@ -51,7 +51,7 @@
    <h2>See my full-stack app </h2>
     <a href="https://the-librarian-front-develop.vercel.app/">
  
-    <img src="https://the-librarian-front-develop.vercel.app/assets/logo.svg=s180" alt="LoopBook" style="max-width: "100%;">
+    <img src="https://the-librarian-front-develop.vercel.app/assets/logo.svg" alt="LoopBook" style="max-width: "100%;">
     </a>
 
  </div>
