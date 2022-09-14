@@ -50,7 +50,7 @@
  <div>
    <h2>See my full stack app </h2>
     <a href="https://the-librarian-front-develop.vercel.app/">
-       <img src="https://the-librarian-front-develop.vercel.app/assets/logo.svg" alt="The Librarian" style="max-width: "10%;">
+       <img src="https://the-librarian-front-develop.vercel.app/assets/logo.svg" alt="The Librarian" style="max-width: "100%;">
     </a>
  </div>
    
