@@ -50,7 +50,7 @@
  <div>
    <h2>See my full stack app </h2>
     <a href="https://the-librarian-front-develop.vercel.app/">
-       <img src="https://the-librarian-front-develop.vercel.app/assets/logo.svg" alt="The Librarian" style="max-width: "100%;">
+       <img src="https://img.freepik.com/foto-gratis/abierto-volando-libros-antiguos_1232-2096.jpg?w=2000" alt="The Librarian" style="max-width: "100%;">
     </a>
  </div>
    
