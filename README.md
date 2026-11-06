@@ -10,7 +10,7 @@
 </div>
   
 <div id="2">
-    <h3>Junior Programmer</h3>
+    <h3>Software developer</h3>
     <img src="https://raulgarvdev.com/wp-content/uploads/2022/01/cropped-cropped-cropped-cropped-logo3-e1642667309203.png">
     <p> 
         After years of experience in the logistics sector working for multinational companies, I had to make a change 
